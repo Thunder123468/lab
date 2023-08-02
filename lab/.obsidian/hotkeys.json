@@ -1,0 +1,11 @@
+{
+  "editing-toolbar:change-font-color": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}
